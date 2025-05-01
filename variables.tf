@@ -10,7 +10,3 @@ variable "key_name" {
   default     = "terraform_docker_app"
 }
 
-variable "public_ip"{
-  description = "Public IP"
-  default     = null
-}
